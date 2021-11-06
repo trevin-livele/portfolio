@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merienda:wght@700&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+body {
+  background-color: lightblue;
+}
+
+.nav {
+  background-color: blue;
+}
+
+.logo {
+  width: 40%;
+  height: 80px;
+  float: left;
+  background-color: lightblue;
+  font-family: "Pacifico", cursive;
+  margin-bottom: 1px;
+}
+
+#code {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.logo #name {
+  color: white;
+  font-size: 60px;
+  margin-bottom: 2px;
+}
+
+.logo p {
+  font-size: 30px;
+  color: white;
+  font-weight: 400;
+  padding-left: 5%;
+  text-transform: capitalize;
+}
+
+.logo span {
+  font-size: 45px;
+  font-weight: normal;
+  color: rgb(59, 58, 58);
+  text-transform: capitalize;
+}
+
+#mobile {
+  text-align: center;
+  background-color: rgba(0, 100, 50, 0.2);
+  width: 100%;
+  clear: both;
+  display: none;
+  height: 40px;
+  border-top: 3px solid rgb(0, 250, 200);
+}
+
+#mobile p {
+  padding-top: 1%;
+  font-size: 20px;
+  color: gray;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  transition: all 1s ease;
+}
+
+nav {
+  width: 60%;
+  height: 80px;
+  float: left;
+  background-color: lightblue;
+}
+
+nav ul li {
+  list-style: none;
+  color: #fefefe;
+  float: left;
+  font-size: 15px;
+  padding: 3% 2.5%;
+  transition: all 0.5s ease;
+}
+
+nav ul li:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-top: 1px solid red;
+  height: 0px;
+}
+
+nav ul li a:hover {
+  color: whitesmoke;
+}
+
+.click-slider {
+  text-decoration: seashell;
+}
