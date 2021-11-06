@@ -163,4 +163,15 @@ nav ul li a:hover {
      
  } 
  
+ @media (max-width: 480px){
+    .container{
+        width: 100vw;
+    }
+
+    .panel:nth-last-of-type(4),
+    .panel:nth-last-of-type(5) {
+        display: none;
+    }
+} 
+
  
