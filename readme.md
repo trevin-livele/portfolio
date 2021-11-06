@@ -20,6 +20,11 @@ Trevin Livele - Full stack software developer
 Information Technology Expert
 +254792691810
 
+
+### Link to github pages
+
+https://trevin-livele.github.io/portfolio/
+
 ### License
 Copyright (c) {2021} **{Trevin Livele}**
   
