@@ -138,3 +138,21 @@ nav ul li a:hover {
     opacity: 1;
     transform: opacity 0.3s ease-in 0.4s;
 }
+
+
+
+.about_me {
+    max-width: 100%;
+  }
+
+
+
+/* contact me */
+
+.img-rounded img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 0.5rem solid #6c63ff;
+  }
+
