@@ -1,12 +1,12 @@
 Screen Shots 
 
-![alt text](img/screenshot1/portfolio.png)
+![alt text](img/screenshots/screenshot1.png)
 
-![alt text](img/screenshot2/portfolio.png)
+![alt text](img/screenshots/screenshot 2.png)
 
-![alt text](img/screenshot3/portfolio.png)
-![alt text](img/screenshot4/portfolio.png)
-![alt text](img/screenshot5/portfolio.png)
+![alt text](img/screenshots/screenshot3.png)
+![alt text](img/screenshots/screenshot 4.png)
+![alt text](img/screenshots/screenshot5.png)
 
 
 
