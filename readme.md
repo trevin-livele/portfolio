@@ -1,12 +1,14 @@
 Screen Shots 
 
-![alt text](img/screenshots/screenshot1.png)
+![alt text](img/Screenshots/screenshot1.png)
 
-![alt text](img/screenshots/screenshot 2.png)
+![alt text](img/Screenshots/screenshot2.png)
 
-![alt text](img/screenshots/screenshot3.png)
-![alt text](img/screenshots/screenshot 4.png)
-![alt text](img/screenshots/screenshot5.png)
+![alt text](img/Screenshots/screenshot3.png)
+
+![alt text](img/Screenshots/screenshot4.png)
+
+![alt text](img/Screenshots/screenshot5.png)
 
 
 
