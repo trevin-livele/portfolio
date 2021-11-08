@@ -1,5 +1,14 @@
-#read me file
-![alt text](img/screenshots/portfolio.png)
+Screen Shots 
+
+![alt text](img/screenshot1/portfolio.png)
+![alt text](img/screenshot 2/portfolio.png)
+![alt text](img/screenshot3/portfolio.png)
+![alt text](img/screenshot 4/portfolio.png)
+![alt text](img/screenshot5/portfolio.png)
+
+
+
+
 
 # Team members
 Trevin Livele
