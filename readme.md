@@ -15,6 +15,14 @@ This is an open source project that anyone can feel free to edit,modify and push
 ## Technologies Used
 Used html to create the layout of the page,used css and bootstrap for the styling purposes and js for the
 projects done section"
+
+
+.HTML
+.CSS
+.BOOTSTRAP
+.JAVASCRIPT
+
+
 ## Support and contact details
 Trevin Livele - Full stack software developer
 Information Technology Expert
