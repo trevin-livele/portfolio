@@ -1,5 +1,5 @@
 #read me file
-![alt text](portfolio.png)
+![alt text](img/screenshots/portfolio.png)
 
 # Team members
 Trevin Livele
