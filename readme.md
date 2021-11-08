@@ -1,18 +1,5 @@
-Screen Shots 
-
-![alt text](img/Screenshots/screenshot1.png)
-
-![alt text](img/Screenshots/screenshot2.png)
-
-![alt text](img/Screenshots/screenshot3.png)
-
-![alt text](img/Screenshots/screenshot4.png)
-
-![alt text](img/Screenshots/screenshot5.png)
-
-
-
-
+#read me file
+![alt text](portfolio.png)
 
 # Team members
 Trevin Livele
