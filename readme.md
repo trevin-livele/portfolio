@@ -21,7 +21,7 @@ projects done section"
 .CSS
 .BOOTSTRAP
 .JAVASCRIPT
-
+JQUERY
 
 ## Support and contact details
 Trevin Livele - Full stack software developer
